@@ -6,7 +6,7 @@
                 "referenceId": "18HenryStRef"
             },
             "Name": "Stunning Victorian",
-            "Address__c": "18 Henry St",
+            "Street_Address__c": "18 Henry St",
             "City__c": "Cambridge",
             "State__c": "MA",
             "Zip__c": "01742",
@@ -28,7 +28,7 @@
                 "referenceId": "24PearlStRef"
             },
             "Name": "Ultimate Sophistication",
-            "Address__c": "24 Pearl St",
+            "Street_Address__c": "24 Pearl St",
             "City__c": "Cambridge",
             "State__c": "MA",
             "Zip__c": "02420",
@@ -50,7 +50,7 @@
                 "referenceId": "72FrancisStRef"
             },
             "Name": "Modern City Living",
-            "Address__c": "72 Francis St",
+            "Street_Address__c": "72 Francis St",
             "City__c": "Boston",
             "State__c": "MA",
             "Zip__c": "02420",
@@ -72,7 +72,7 @@
                 "referenceId": "32PrinceStRef"
             },
             "Name": "Stunning Colonial",
-            "Address__c": "32 Prince St",
+            "Street_Address__c": "32 Prince St",
             "City__c": "Cambridge",
             "State__c": "MA",
             "Zip__c": "02420",
@@ -94,7 +94,7 @@
                 "referenceId": "110BaxterStRef"
             },
             "Name": "Waterfront in the City",
-            "Address__c": "110 Baxter Street",
+            "Street_Address__c": "110 Baxter Street",
             "City__c": "Boston",
             "State__c": "MA",
             "Zip__c": "02420",
@@ -116,7 +116,7 @@
                 "referenceId": "448HanoverStRef"
             },
             "Name": "Quiet Retreat",
-            "Address__c": "448 Hanover St",
+            "Street_Address__c": "448 Hanover St",
             "City__c": "Boston",
             "State__c": "MA",
             "Zip__c": "02420",
@@ -138,7 +138,7 @@
                 "referenceId": "127EndicottStRef"
             },
             "Name": "City Living",
-            "Address__c": "127 Endicott St",
+            "Street_Address__c": "127 Endicott St",
             "City__c": "Boston",
             "State__c": "MA",
             "Zip__c": "02420",
@@ -160,7 +160,7 @@
                 "referenceId": "48BrattleStRef"
             },
             "Name": "Heart of Harvard Square",
-            "Address__c": "48 Brattle St",
+            "Street_Address__c": "48 Brattle St",
             "City__c": "Cambridge",
             "State__c": "MA",
             "Zip__c": "02420",
@@ -182,7 +182,7 @@
                 "referenceId": "121HarborwalkRef"
             },
             "Name": "Seaport District Retreat",
-            "Address__c": "121 Harborwalk",
+            "Street_Address__c": "121 Harborwalk",
             "City__c": "Boston",
             "State__c": "MA",
             "Zip__c": "02420",
@@ -204,7 +204,7 @@
                 "referenceId": "640HarrisonAveRef"
             },
             "Name": "Contemporary City Living",
-            "Address__c": "640 Harrison Ave",
+            "Street_Address__c": "640 Harrison Ave",
             "City__c": "Boston",
             "State__c": "MA",
             "Zip__c": "02420",
@@ -226,7 +226,7 @@
                 "referenceId": "95GloucesterStRef"
             },
             "Name": "Architectural Details",
-            "Address__c": "95 Gloucester St",
+            "Street_Address__c": "95 Gloucester St",
             "City__c": "Boston",
             "State__c": "MA",
             "Zip__c": "02420",
@@ -248,7 +248,7 @@
                 "referenceId": "145CommonwealthAveRef"
             },
             "Name": "Contemporary Luxury",
-            "Address__c": "145 Commonwealth Ave",
+            "Street_Address__c": "145 Commonwealth Ave",
             "City__c": "Boston",
             "State__c": "MA",
             "Zip__c": "02420",
